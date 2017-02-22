@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaListe</string>
+    <string name="action_vider">Vider</string>
+    <string name="activity_add_editText_label">Insert here</string>
+    <string name="activity_add_button">Ajouter</string>
+    <string name="mandatory_message">Le champs est obligatoire</string>
+    <string name="successMessage">Ajout effectué</string>
+    <string name ="deleteMessage">Liste vidé</string>
+</resources>
